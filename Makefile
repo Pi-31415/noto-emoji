@@ -14,6 +14,8 @@
 
 EMOJI = NotoColorEmoji
 EMOJI_WINDOWS = NotoColorEmoji_WindowsCompatible
+# Pi Added
+BYPASS_SEQUENCE_CHECK = 'True'
 all: $(EMOJI).ttf $(EMOJI_WINDOWS).ttf
 
 CFLAGS = -std=c99 -Wall -Wextra `pkg-config --cflags --libs cairo`

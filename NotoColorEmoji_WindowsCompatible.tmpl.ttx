@@ -1,0 +1,2571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.38">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="null"/>
+    <GlyphID id="2" name="nonmarkingreturn"/>
+    <GlyphID id="3" name="space"/>
+    <GlyphID id="4" name="uni00A9"/>
+    <GlyphID id="5" name="uni200D"/>
+    <GlyphID id="6" name="u1F1E6"/>
+    <GlyphID id="7" name="u1F1E7"/>
+    <GlyphID id="8" name="u1F1E8"/>
+    <GlyphID id="9" name="u1F1E9"/>
+    <GlyphID id="10" name="u1F1EA"/>
+    <GlyphID id="11" name="u1F1EB"/>
+    <GlyphID id="12" name="u1F1EC"/>
+    <GlyphID id="13" name="u1F1ED"/>
+    <GlyphID id="14" name="u1F1EE"/>
+    <GlyphID id="15" name="u1F1EF"/>
+    <GlyphID id="16" name="u1F1F0"/>
+    <GlyphID id="17" name="u1F1F1"/>
+    <GlyphID id="18" name="u1F1F2"/>
+    <GlyphID id="19" name="u1F1F3"/>
+    <GlyphID id="20" name="u1F1F4"/>
+    <GlyphID id="21" name="u1F1F5"/>
+    <GlyphID id="22" name="u1F1F6"/>
+    <GlyphID id="23" name="u1F1F7"/>
+    <GlyphID id="24" name="u1F1F8"/>
+    <GlyphID id="25" name="u1F1F9"/>
+    <GlyphID id="26" name="u1F1FA"/>
+    <GlyphID id="27" name="u1F1FB"/>
+    <GlyphID id="28" name="u1F1FC"/>
+    <GlyphID id="29" name="u1F1FD"/>
+    <GlyphID id="30" name="u1F1FE"/>
+    <GlyphID id="31" name="u1F1FF"/>
+    <GlyphID id="32" name="u1F3F4"/>
+    <GlyphID id="33" name="uE0030"/>
+    <GlyphID id="34" name="uE0031"/>
+    <GlyphID id="35" name="uE0032"/>
+    <GlyphID id="36" name="uE0033"/>
+    <GlyphID id="37" name="uE0034"/>
+    <GlyphID id="38" name="uE0035"/>
+    <GlyphID id="39" name="uE0036"/>
+    <GlyphID id="40" name="uE0037"/>
+    <GlyphID id="41" name="uE0038"/>
+    <GlyphID id="42" name="uE0039"/>
+    <GlyphID id="43" name="uE0061"/>
+    <GlyphID id="44" name="uE0062"/>
+    <GlyphID id="45" name="uE0063"/>
+    <GlyphID id="46" name="uE0064"/>
+    <GlyphID id="47" name="uE0065"/>
+    <GlyphID id="48" name="uE0066"/>
+    <GlyphID id="49" name="uE0067"/>
+    <GlyphID id="50" name="uE0068"/>
+    <GlyphID id="51" name="uE0069"/>
+    <GlyphID id="52" name="uE006A"/>
+    <GlyphID id="53" name="uE006B"/>
+    <GlyphID id="54" name="uE006C"/>
+    <GlyphID id="55" name="uE006D"/>
+    <GlyphID id="56" name="uE006E"/>
+    <GlyphID id="57" name="uE006F"/>
+    <GlyphID id="58" name="uE0070"/>
+    <GlyphID id="59" name="uE0071"/>
+    <GlyphID id="60" name="uE0072"/>
+    <GlyphID id="61" name="uE0073"/>
+    <GlyphID id="62" name="uE0074"/>
+    <GlyphID id="63" name="uE0075"/>
+    <GlyphID id="64" name="uE0076"/>
+    <GlyphID id="65" name="uE0077"/>
+    <GlyphID id="66" name="uE0078"/>
+    <GlyphID id="67" name="uE0079"/>
+    <GlyphID id="68" name="uE007A"/>
+    <GlyphID id="69" name="uE007F"/>
+    <GlyphID id="70" name="uFE82B"/>
+    <GlyphID id="71" name="u1F1E6_1F1E8"/>
+    <GlyphID id="72" name="u1F1E6_1F1E9"/>
+    <GlyphID id="73" name="u1F1E6_1F1EA"/>
+    <GlyphID id="74" name="u1F1E6_1F1EB"/>
+    <GlyphID id="75" name="u1F1E6_1F1EC"/>
+    <GlyphID id="76" name="u1F1E6_1F1EE"/>
+    <GlyphID id="77" name="u1F1E6_1F1F1"/>
+    <GlyphID id="78" name="u1F1E6_1F1F2"/>
+    <GlyphID id="79" name="u1F1E6_1F1F4"/>
+    <GlyphID id="80" name="u1F1E6_1F1F6"/>
+    <GlyphID id="81" name="u1F1E6_1F1F7"/>
+    <GlyphID id="82" name="u1F1E6_1F1F8"/>
+    <GlyphID id="83" name="u1F1E6_1F1F9"/>
+    <GlyphID id="84" name="u1F1E6_1F1FA"/>
+    <GlyphID id="85" name="u1F1E6_1F1FC"/>
+    <GlyphID id="86" name="u1F1E6_1F1FD"/>
+    <GlyphID id="87" name="u1F1E6_1F1FF"/>
+    <GlyphID id="88" name="u1F1E7_1F1E6"/>
+    <GlyphID id="89" name="u1F1E7_1F1E7"/>
+    <GlyphID id="90" name="u1F1E7_1F1E9"/>
+    <GlyphID id="91" name="u1F1E7_1F1EA"/>
+    <GlyphID id="92" name="u1F1E7_1F1EB"/>
+    <GlyphID id="93" name="u1F1E7_1F1EC"/>
+    <GlyphID id="94" name="u1F1E7_1F1ED"/>
+    <GlyphID id="95" name="u1F1E7_1F1EE"/>
+    <GlyphID id="96" name="u1F1E7_1F1EF"/>
+    <GlyphID id="97" name="u1F1E7_1F1F1"/>
+    <GlyphID id="98" name="u1F1E7_1F1F2"/>
+    <GlyphID id="99" name="u1F1E7_1F1F3"/>
+    <GlyphID id="100" name="u1F1E7_1F1F4"/>
+    <GlyphID id="101" name="u1F1E7_1F1F6"/>
+    <GlyphID id="102" name="u1F1E7_1F1F7"/>
+    <GlyphID id="103" name="u1F1E7_1F1F8"/>
+    <GlyphID id="104" name="u1F1E7_1F1F9"/>
+    <GlyphID id="105" name="u1F1E7_1F1FC"/>
+    <GlyphID id="106" name="u1F1E7_1F1FE"/>
+    <GlyphID id="107" name="u1F1E7_1F1FF"/>
+    <GlyphID id="108" name="u1F1E8_1F1E6"/>
+    <GlyphID id="109" name="u1F1E8_1F1E8"/>
+    <GlyphID id="110" name="u1F1E8_1F1E9"/>
+    <GlyphID id="111" name="u1F1E8_1F1EB"/>
+    <GlyphID id="112" name="u1F1E8_1F1EC"/>
+    <GlyphID id="113" name="u1F1E8_1F1ED"/>
+    <GlyphID id="114" name="u1F1E8_1F1EE"/>
+    <GlyphID id="115" name="u1F1E8_1F1F0"/>
+    <GlyphID id="116" name="u1F1E8_1F1F1"/>
+    <GlyphID id="117" name="u1F1E8_1F1F2"/>
+    <GlyphID id="118" name="u1F1E8_1F1F3"/>
+    <GlyphID id="119" name="u1F1E8_1F1F4"/>
+    <GlyphID id="120" name="u1F1E8_1F1F7"/>
+    <GlyphID id="121" name="u1F1E8_1F1FA"/>
+    <GlyphID id="122" name="u1F1E8_1F1FB"/>
+    <GlyphID id="123" name="u1F1E8_1F1FC"/>
+    <GlyphID id="124" name="u1F1E8_1F1FD"/>
+    <GlyphID id="125" name="u1F1E8_1F1FE"/>
+    <GlyphID id="126" name="u1F1E8_1F1FF"/>
+    <GlyphID id="127" name="u1F1E9_1F1EA"/>
+    <GlyphID id="128" name="u1F1E9_1F1EF"/>
+    <GlyphID id="129" name="u1F1E9_1F1F0"/>
+    <GlyphID id="130" name="u1F1E9_1F1F2"/>
+    <GlyphID id="131" name="u1F1E9_1F1F4"/>
+    <GlyphID id="132" name="u1F1E9_1F1FF"/>
+    <GlyphID id="133" name="u1F1EA_1F1E8"/>
+    <GlyphID id="134" name="u1F1EA_1F1EA"/>
+    <GlyphID id="135" name="u1F1EA_1F1EC"/>
+    <GlyphID id="136" name="u1F1EA_1F1ED"/>
+    <GlyphID id="137" name="u1F1EA_1F1F7"/>
+    <GlyphID id="138" name="u1F1EA_1F1F8"/>
+    <GlyphID id="139" name="u1F1EA_1F1F9"/>
+    <GlyphID id="140" name="u1F1EA_1F1FA"/>
+    <GlyphID id="141" name="u1F1EB_1F1EE"/>
+    <GlyphID id="142" name="u1F1EB_1F1EF"/>
+    <GlyphID id="143" name="u1F1EB_1F1F0"/>
+    <GlyphID id="144" name="u1F1EB_1F1F2"/>
+    <GlyphID id="145" name="u1F1EB_1F1F4"/>
+    <GlyphID id="146" name="u1F1EB_1F1F7"/>
+    <GlyphID id="147" name="u1F1EC_1F1E6"/>
+    <GlyphID id="148" name="u1F1EC_1F1E7"/>
+    <GlyphID id="149" name="u1F1EC_1F1E9"/>
+    <GlyphID id="150" name="u1F1EC_1F1EA"/>
+    <GlyphID id="151" name="u1F1EC_1F1EB"/>
+    <GlyphID id="152" name="u1F1EC_1F1EC"/>
+    <GlyphID id="153" name="u1F1EC_1F1ED"/>
+    <GlyphID id="154" name="u1F1EC_1F1EE"/>
+    <GlyphID id="155" name="u1F1EC_1F1F1"/>
+    <GlyphID id="156" name="u1F1EC_1F1F2"/>
+    <GlyphID id="157" name="u1F1EC_1F1F3"/>
+    <GlyphID id="158" name="u1F1EC_1F1F5"/>
+    <GlyphID id="159" name="u1F1EC_1F1F6"/>
+    <GlyphID id="160" name="u1F1EC_1F1F7"/>
+    <GlyphID id="161" name="u1F1EC_1F1F8"/>
+    <GlyphID id="162" name="u1F1EC_1F1F9"/>
+    <GlyphID id="163" name="u1F1EC_1F1FA"/>
+    <GlyphID id="164" name="u1F1EC_1F1FC"/>
+    <GlyphID id="165" name="u1F1EC_1F1FE"/>
+    <GlyphID id="166" name="u1F1ED_1F1F0"/>
+    <GlyphID id="167" name="u1F1ED_1F1F3"/>
+    <GlyphID id="168" name="u1F1ED_1F1F7"/>
+    <GlyphID id="169" name="u1F1ED_1F1F9"/>
+    <GlyphID id="170" name="u1F1ED_1F1FA"/>
+    <GlyphID id="171" name="u1F1EE_1F1E8"/>
+    <GlyphID id="172" name="u1F1EE_1F1E9"/>
+    <GlyphID id="173" name="u1F1EE_1F1EA"/>
+    <GlyphID id="174" name="u1F1EE_1F1F1"/>
+    <GlyphID id="175" name="u1F1EE_1F1F2"/>
+    <GlyphID id="176" name="u1F1EE_1F1F3"/>
+    <GlyphID id="177" name="u1F1EE_1F1F4"/>
+    <GlyphID id="178" name="u1F1EE_1F1F6"/>
+    <GlyphID id="179" name="u1F1EE_1F1F7"/>
+    <GlyphID id="180" name="u1F1EE_1F1F8"/>
+    <GlyphID id="181" name="u1F1EE_1F1F9"/>
+    <GlyphID id="182" name="u1F1EF_1F1EA"/>
+    <GlyphID id="183" name="u1F1EF_1F1F2"/>
+    <GlyphID id="184" name="u1F1EF_1F1F4"/>
+    <GlyphID id="185" name="u1F1EF_1F1F5"/>
+    <GlyphID id="186" name="u1F1F0_1F1EA"/>
+    <GlyphID id="187" name="u1F1F0_1F1EC"/>
+    <GlyphID id="188" name="u1F1F0_1F1ED"/>
+    <GlyphID id="189" name="u1F1F0_1F1EE"/>
+    <GlyphID id="190" name="u1F1F0_1F1F2"/>
+    <GlyphID id="191" name="u1F1F0_1F1F3"/>
+    <GlyphID id="192" name="u1F1F0_1F1F5"/>
+    <GlyphID id="193" name="u1F1F0_1F1F7"/>
+    <GlyphID id="194" name="u1F1F0_1F1FC"/>
+    <GlyphID id="195" name="u1F1F0_1F1FE"/>
+    <GlyphID id="196" name="u1F1F0_1F1FF"/>
+    <GlyphID id="197" name="u1F1F1_1F1E6"/>
+    <GlyphID id="198" name="u1F1F1_1F1E7"/>
+    <GlyphID id="199" name="u1F1F1_1F1E8"/>
+    <GlyphID id="200" name="u1F1F1_1F1EE"/>
+    <GlyphID id="201" name="u1F1F1_1F1F0"/>
+    <GlyphID id="202" name="u1F1F1_1F1F7"/>
+    <GlyphID id="203" name="u1F1F1_1F1F8"/>
+    <GlyphID id="204" name="u1F1F1_1F1F9"/>
+    <GlyphID id="205" name="u1F1F1_1F1FA"/>
+    <GlyphID id="206" name="u1F1F1_1F1FB"/>
+    <GlyphID id="207" name="u1F1F1_1F1FE"/>
+    <GlyphID id="208" name="u1F1F2_1F1E6"/>
+    <GlyphID id="209" name="u1F1F2_1F1E8"/>
+    <GlyphID id="210" name="u1F1F2_1F1E9"/>
+    <GlyphID id="211" name="u1F1F2_1F1EA"/>
+    <GlyphID id="212" name="u1F1F2_1F1EC"/>
+    <GlyphID id="213" name="u1F1F2_1F1ED"/>
+    <GlyphID id="214" name="u1F1F2_1F1F0"/>
+    <GlyphID id="215" name="u1F1F2_1F1F1"/>
+    <GlyphID id="216" name="u1F1F2_1F1F2"/>
+    <GlyphID id="217" name="u1F1F2_1F1F3"/>
+    <GlyphID id="218" name="u1F1F2_1F1F4"/>
+    <GlyphID id="219" name="u1F1F2_1F1F5"/>
+    <GlyphID id="220" name="u1F1F2_1F1F6"/>
+    <GlyphID id="221" name="u1F1F2_1F1F7"/>
+    <GlyphID id="222" name="u1F1F2_1F1F8"/>
+    <GlyphID id="223" name="u1F1F2_1F1F9"/>
+    <GlyphID id="224" name="u1F1F2_1F1FA"/>
+    <GlyphID id="225" name="u1F1F2_1F1FB"/>
+    <GlyphID id="226" name="u1F1F2_1F1FC"/>
+    <GlyphID id="227" name="u1F1F2_1F1FD"/>
+    <GlyphID id="228" name="u1F1F2_1F1FE"/>
+    <GlyphID id="229" name="u1F1F2_1F1FF"/>
+    <GlyphID id="230" name="u1F1F3_1F1E6"/>
+    <GlyphID id="231" name="u1F1F3_1F1E8"/>
+    <GlyphID id="232" name="u1F1F3_1F1EA"/>
+    <GlyphID id="233" name="u1F1F3_1F1EB"/>
+    <GlyphID id="234" name="u1F1F3_1F1EC"/>
+    <GlyphID id="235" name="u1F1F3_1F1EE"/>
+    <GlyphID id="236" name="u1F1F3_1F1F1"/>
+    <GlyphID id="237" name="u1F1F3_1F1F4"/>
+    <GlyphID id="238" name="u1F1F3_1F1F5"/>
+    <GlyphID id="239" name="u1F1F3_1F1F7"/>
+    <GlyphID id="240" name="u1F1F3_1F1FA"/>
+    <GlyphID id="241" name="u1F1F3_1F1FF"/>
+    <GlyphID id="242" name="u1F1F4_1F1F2"/>
+    <GlyphID id="243" name="u1F1F5_1F1E6"/>
+    <GlyphID id="244" name="u1F1F5_1F1EA"/>
+    <GlyphID id="245" name="u1F1F5_1F1EB"/>
+    <GlyphID id="246" name="u1F1F5_1F1EC"/>
+    <GlyphID id="247" name="u1F1F5_1F1ED"/>
+    <GlyphID id="248" name="u1F1F5_1F1F0"/>
+    <GlyphID id="249" name="u1F1F5_1F1F1"/>
+    <GlyphID id="250" name="u1F1F5_1F1F2"/>
+    <GlyphID id="251" name="u1F1F5_1F1F3"/>
+    <GlyphID id="252" name="u1F1F5_1F1F7"/>
+    <GlyphID id="253" name="u1F1F5_1F1F8"/>
+    <GlyphID id="254" name="u1F1F5_1F1F9"/>
+    <GlyphID id="255" name="u1F1F5_1F1FC"/>
+    <GlyphID id="256" name="u1F1F5_1F1FE"/>
+    <GlyphID id="257" name="u1F1F6_1F1E6"/>
+    <GlyphID id="258" name="u1F1F7_1F1EA"/>
+    <GlyphID id="259" name="u1F1F7_1F1F4"/>
+    <GlyphID id="260" name="u1F1F7_1F1F8"/>
+    <GlyphID id="261" name="u1F1F7_1F1FA"/>
+    <GlyphID id="262" name="u1F1F7_1F1FC"/>
+    <GlyphID id="263" name="u1F1F8_1F1E6"/>
+    <GlyphID id="264" name="u1F1F8_1F1E7"/>
+    <GlyphID id="265" name="u1F1F8_1F1E8"/>
+    <GlyphID id="266" name="u1F1F8_1F1E9"/>
+    <GlyphID id="267" name="u1F1F8_1F1EA"/>
+    <GlyphID id="268" name="u1F1F8_1F1EC"/>
+    <GlyphID id="269" name="u1F1F8_1F1ED"/>
+    <GlyphID id="270" name="u1F1F8_1F1EE"/>
+    <GlyphID id="271" name="u1F1F8_1F1F0"/>
+    <GlyphID id="272" name="u1F1F8_1F1F1"/>
+    <GlyphID id="273" name="u1F1F8_1F1F2"/>
+    <GlyphID id="274" name="u1F1F8_1F1F3"/>
+    <GlyphID id="275" name="u1F1F8_1F1F4"/>
+    <GlyphID id="276" name="u1F1F8_1F1F7"/>
+    <GlyphID id="277" name="u1F1F8_1F1F8"/>
+    <GlyphID id="278" name="u1F1F8_1F1F9"/>
+    <GlyphID id="279" name="u1F1F8_1F1FB"/>
+    <GlyphID id="280" name="u1F1F8_1F1FD"/>
+    <GlyphID id="281" name="u1F1F8_1F1FE"/>
+    <GlyphID id="282" name="u1F1F8_1F1FF"/>
+    <GlyphID id="283" name="u1F1F9_1F1E6"/>
+    <GlyphID id="284" name="u1F1F9_1F1E8"/>
+    <GlyphID id="285" name="u1F1F9_1F1E9"/>
+    <GlyphID id="286" name="u1F1F9_1F1EB"/>
+    <GlyphID id="287" name="u1F1F9_1F1EC"/>
+    <GlyphID id="288" name="u1F1F9_1F1ED"/>
+    <GlyphID id="289" name="u1F1F9_1F1EF"/>
+    <GlyphID id="290" name="u1F1F9_1F1F0"/>
+    <GlyphID id="291" name="u1F1F9_1F1F1"/>
+    <GlyphID id="292" name="u1F1F9_1F1F2"/>
+    <GlyphID id="293" name="u1F1F9_1F1F3"/>
+    <GlyphID id="294" name="u1F1F9_1F1F4"/>
+    <GlyphID id="295" name="u1F1F9_1F1F7"/>
+    <GlyphID id="296" name="u1F1F9_1F1F9"/>
+    <GlyphID id="297" name="u1F1F9_1F1FB"/>
+    <GlyphID id="298" name="u1F1F9_1F1FC"/>
+    <GlyphID id="299" name="u1F1F9_1F1FF"/>
+    <GlyphID id="300" name="u1F1FA_1F1E6"/>
+    <GlyphID id="301" name="u1F1FA_1F1EC"/>
+    <GlyphID id="302" name="u1F1FA_1F1F3"/>
+    <GlyphID id="303" name="u1F1FA_1F1F8"/>
+    <GlyphID id="304" name="u1F1FA_1F1FE"/>
+    <GlyphID id="305" name="u1F1FA_1F1FF"/>
+    <GlyphID id="306" name="u1F1FB_1F1E6"/>
+    <GlyphID id="307" name="u1F1FB_1F1E8"/>
+    <GlyphID id="308" name="u1F1FB_1F1EA"/>
+    <GlyphID id="309" name="u1F1FB_1F1EC"/>
+    <GlyphID id="310" name="u1F1FB_1F1EE"/>
+    <GlyphID id="311" name="u1F1FB_1F1F3"/>
+    <GlyphID id="312" name="u1F1FB_1F1FA"/>
+    <GlyphID id="313" name="u1F1FC_1F1EB"/>
+    <GlyphID id="314" name="u1F1FC_1F1F8"/>
+    <GlyphID id="315" name="u1F1FD_1F1F0"/>
+    <GlyphID id="316" name="u1F1FE_1F1EA"/>
+    <GlyphID id="317" name="u1F1FE_1F1F9"/>
+    <GlyphID id="318" name="u1F1FF_1F1E6"/>
+    <GlyphID id="319" name="u1F1FF_1F1F2"/>
+    <GlyphID id="320" name="u1F1FF_1F1FC"/>
+    <GlyphID id="321" name="u1F3F4_E0067_E0062_E0065_E006E_E0067_E007F"/>
+    <GlyphID id="322" name="u1F3F4_E0067_E0062_E0073_E0063_E0074_E007F"/>
+    <GlyphID id="323" name="u1F3F4_E0067_E0062_E0077_E006C_E0073_E007F"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="2.038"/>
+    <checkSumAdjustment value="0x4d5a161a"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00001011"/>
+    <unitsPerEm value="2048"/>
+    <created value="Wed May 22 20:00:43 2013"/>
+    <modified value="Wed May 22 20:00:43 2013"/>
+    <xMin value="0"/>
+    <yMin value="-500"/>
+    <xMax value="2550"/>
+    <yMax value="1900"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="8"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="1900"/>
+    <descent value="-500"/>
+    <lineGap value="0"/>
+    <advanceWidthMax value="2550"/>
+    <minLeftSideBearing value="0"/>
+    <minRightSideBearing value="0"/>
+    <xMaxExtent value="2550"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="4"/>
+  </hhea>
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="70"/>
+    <maxPoints value="8"/>
+    <maxContours value="2"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="2"/>
+    <maxTwilightPoints value="0"/>
+    <maxStorage value="1"/>
+    <maxFunctionDefs value="1"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="64"/>
+    <maxSizeOfInstructions value="46"/>
+    <maxComponentElements value="0"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="4"/>
+    <xAvgCharWidth value="2550"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="1331"/>
+    <ySubscriptYSize value="1433"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="286"/>
+    <ySuperscriptXSize value="1331"/>
+    <ySuperscriptYSize value="1433"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="983"/>
+    <yStrikeoutSize value="102"/>
+    <yStrikeoutPosition value="530"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="6"/>
+      <bProportion value="9"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="GOOG"/>
+    <fsSelection value="00000000 01000000"/>
+    <usFirstCharIndex value="0"/>
+    <usLastCharIndex value="65535"/>
+    <sTypoAscender value="1900"/>
+    <sTypoDescender value="-500"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="1900"/>
+    <usWinDescent value="500"/>
+    <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="0"/>
+    <sCapHeight value="1900"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="1"/>
+  </OS_2>
+
+  <hmtx>
+    <mtx name=".notdef" width="2550" lsb="0"/>
+    <mtx name="nonmarkingreturn" width="2550" lsb="0"/>
+    <mtx name="null" width="0" lsb="0"/>
+    <mtx name="space" width="2550" lsb="0"/>
+    <mtx name="u1F1E6" width="0" lsb="0"/>
+    <mtx name="u1F1E6_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1F6" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1FD" width="2550" lsb="0"/>
+    <mtx name="u1F1E6_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1E7" width="0" lsb="0"/>
+    <mtx name="u1F1E7_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1E7" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1EF" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F6" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1E7_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1E8" width="0" lsb="0"/>
+    <mtx name="u1F1E8_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1FB" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1FD" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1E8_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1E9" width="0" lsb="0"/>
+    <mtx name="u1F1E9_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1E9_1F1EF" width="2550" lsb="0"/>
+    <mtx name="u1F1E9_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1E9_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1E9_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1E9_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1EA" width="0" lsb="0"/>
+    <mtx name="u1F1EA_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1EA_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1EA_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1EA_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1EA_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1EA_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1EA_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1EA_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1EB" width="0" lsb="0"/>
+    <mtx name="u1F1EB_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1EB_1F1EF" width="2550" lsb="0"/>
+    <mtx name="u1F1EB_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1EB_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1EB_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1EB_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1EC" width="0" lsb="0"/>
+    <mtx name="u1F1EC_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1E7" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F5" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F6" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1EC_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1ED" width="0" lsb="0"/>
+    <mtx name="u1F1ED_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1ED_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1ED_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1ED_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1ED_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1EE" width="0" lsb="0"/>
+    <mtx name="u1F1EE_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F6" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1EE_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1EF" width="0" lsb="0"/>
+    <mtx name="u1F1EF_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1EF_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1EF_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1EF_1F1F5" width="2550" lsb="0"/>
+    <mtx name="u1F1F0" width="0" lsb="0"/>
+    <mtx name="u1F1F0_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1F5" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1F0_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1F1" width="0" lsb="0"/>
+    <mtx name="u1F1F1_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1E7" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1FB" width="2550" lsb="0"/>
+    <mtx name="u1F1F1_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1F2" width="0" lsb="0"/>
+    <mtx name="u1F1F2_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F5" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F6" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1FB" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1FD" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1F2_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1F3" width="0" lsb="0"/>
+    <mtx name="u1F1F3_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1F5" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1F3_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1F4" width="0" lsb="0"/>
+    <mtx name="u1F1F4_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1F5" width="0" lsb="0"/>
+    <mtx name="u1F1F5_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1F5_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1F6" width="0" lsb="0"/>
+    <mtx name="u1F1F6_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1F7" width="0" lsb="0"/>
+    <mtx name="u1F1F7_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1F7_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1F7_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1F7_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1F7_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1F8" width="0" lsb="0"/>
+    <mtx name="u1F1F8_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1E7" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1FB" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1FD" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1F8_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1F9" width="0" lsb="0"/>
+    <mtx name="u1F1F9_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1E9" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1ED" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1EF" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1F1" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1F4" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1F7" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1FB" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F1F9_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1FA" width="0" lsb="0"/>
+    <mtx name="u1F1FA_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1FA_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1FA_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1FA_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1FA_1F1FE" width="2550" lsb="0"/>
+    <mtx name="u1F1FA_1F1FF" width="2550" lsb="0"/>
+    <mtx name="u1F1FB" width="0" lsb="0"/>
+    <mtx name="u1F1FB_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1FB_1F1E8" width="2550" lsb="0"/>
+    <mtx name="u1F1FB_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1FB_1F1EC" width="2550" lsb="0"/>
+    <mtx name="u1F1FB_1F1EE" width="2550" lsb="0"/>
+    <mtx name="u1F1FB_1F1F3" width="2550" lsb="0"/>
+    <mtx name="u1F1FB_1F1FA" width="2550" lsb="0"/>
+    <mtx name="u1F1FC" width="0" lsb="0"/>
+    <mtx name="u1F1FC_1F1EB" width="2550" lsb="0"/>
+    <mtx name="u1F1FC_1F1F8" width="2550" lsb="0"/>
+    <mtx name="u1F1FD" width="0" lsb="0"/>
+    <mtx name="u1F1FD_1F1F0" width="2550" lsb="0"/>
+    <mtx name="u1F1FE" width="0" lsb="0"/>
+    <mtx name="u1F1FE_1F1EA" width="2550" lsb="0"/>
+    <mtx name="u1F1FE_1F1F9" width="2550" lsb="0"/>
+    <mtx name="u1F1FF" width="0" lsb="0"/>
+    <mtx name="u1F1FF_1F1E6" width="2550" lsb="0"/>
+    <mtx name="u1F1FF_1F1F2" width="2550" lsb="0"/>
+    <mtx name="u1F1FF_1F1FC" width="2550" lsb="0"/>
+    <mtx name="u1F3F4" width="0" lsb="0"/>
+    <mtx name="u1F3F4_E0067_E0062_E0065_E006E_E0067_E007F" width="2550" lsb="0"/>
+    <mtx name="u1F3F4_E0067_E0062_E0073_E0063_E0074_E007F" width="2550" lsb="0"/>
+    <mtx name="u1F3F4_E0067_E0062_E0077_E006C_E0073_E007F" width="2550" lsb="0"/>
+    <mtx name="uE0030" width="0" lsb="0"/>
+    <mtx name="uE0031" width="0" lsb="0"/>
+    <mtx name="uE0032" width="0" lsb="0"/>
+    <mtx name="uE0033" width="0" lsb="0"/>
+    <mtx name="uE0034" width="0" lsb="0"/>
+    <mtx name="uE0035" width="0" lsb="0"/>
+    <mtx name="uE0036" width="0" lsb="0"/>
+    <mtx name="uE0037" width="0" lsb="0"/>
+    <mtx name="uE0038" width="0" lsb="0"/>
+    <mtx name="uE0039" width="0" lsb="0"/>
+    <mtx name="uE0061" width="0" lsb="0"/>
+    <mtx name="uE0062" width="0" lsb="0"/>
+    <mtx name="uE0063" width="0" lsb="0"/>
+    <mtx name="uE0064" width="0" lsb="0"/>
+    <mtx name="uE0065" width="0" lsb="0"/>
+    <mtx name="uE0066" width="0" lsb="0"/>
+    <mtx name="uE0067" width="0" lsb="0"/>
+    <mtx name="uE0068" width="0" lsb="0"/>
+    <mtx name="uE0069" width="0" lsb="0"/>
+    <mtx name="uE006A" width="0" lsb="0"/>
+    <mtx name="uE006B" width="0" lsb="0"/>
+    <mtx name="uE006C" width="0" lsb="0"/>
+    <mtx name="uE006D" width="0" lsb="0"/>
+    <mtx name="uE006E" width="0" lsb="0"/>
+    <mtx name="uE006F" width="0" lsb="0"/>
+    <mtx name="uE0070" width="0" lsb="0"/>
+    <mtx name="uE0071" width="0" lsb="0"/>
+    <mtx name="uE0072" width="0" lsb="0"/>
+    <mtx name="uE0073" width="0" lsb="0"/>
+    <mtx name="uE0074" width="0" lsb="0"/>
+    <mtx name="uE0075" width="0" lsb="0"/>
+    <mtx name="uE0076" width="0" lsb="0"/>
+    <mtx name="uE0077" width="0" lsb="0"/>
+    <mtx name="uE0078" width="0" lsb="0"/>
+    <mtx name="uE0079" width="0" lsb="0"/>
+    <mtx name="uE007A" width="0" lsb="0"/>
+    <mtx name="uE007F" width="0" lsb="0"/>
+    <mtx name="uFE82B" width="0" lsb="0"/>
+    <mtx name="uni00A9" width="2550" lsb="0"/>
+    <mtx name="uni200D" width="0" lsb="0"/>
+  </hmtx>
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="1" language="0" nGroups="1">
+      <map code="0x0" name="null"/><!-- ???? -->
+      <map code="0xd" name="nonmarkingreturn"/><!-- ???? -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xa9" name="uni00A9"/><!-- COPYRIGHT SIGN -->
+      <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x1f1e6" name="u1F1E6"/><!-- REGIONAL INDICATOR SYMBOL LETTER A -->
+      <map code="0x1f1e7" name="u1F1E7"/><!-- REGIONAL INDICATOR SYMBOL LETTER B -->
+      <map code="0x1f1e8" name="u1F1E8"/><!-- REGIONAL INDICATOR SYMBOL LETTER C -->
+      <map code="0x1f1e9" name="u1F1E9"/><!-- REGIONAL INDICATOR SYMBOL LETTER D -->
+      <map code="0x1f1ea" name="u1F1EA"/><!-- REGIONAL INDICATOR SYMBOL LETTER E -->
+      <map code="0x1f1eb" name="u1F1EB"/><!-- REGIONAL INDICATOR SYMBOL LETTER F -->
+      <map code="0x1f1ec" name="u1F1EC"/><!-- REGIONAL INDICATOR SYMBOL LETTER G -->
+      <map code="0x1f1ed" name="u1F1ED"/><!-- REGIONAL INDICATOR SYMBOL LETTER H -->
+      <map code="0x1f1ee" name="u1F1EE"/><!-- REGIONAL INDICATOR SYMBOL LETTER I -->
+      <map code="0x1f1ef" name="u1F1EF"/><!-- REGIONAL INDICATOR SYMBOL LETTER J -->
+      <map code="0x1f1f0" name="u1F1F0"/><!-- REGIONAL INDICATOR SYMBOL LETTER K -->
+      <map code="0x1f1f1" name="u1F1F1"/><!-- REGIONAL INDICATOR SYMBOL LETTER L -->
+      <map code="0x1f1f2" name="u1F1F2"/><!-- REGIONAL INDICATOR SYMBOL LETTER M -->
+      <map code="0x1f1f3" name="u1F1F3"/><!-- REGIONAL INDICATOR SYMBOL LETTER N -->
+      <map code="0x1f1f4" name="u1F1F4"/><!-- REGIONAL INDICATOR SYMBOL LETTER O -->
+      <map code="0x1f1f5" name="u1F1F5"/><!-- REGIONAL INDICATOR SYMBOL LETTER P -->
+      <map code="0x1f1f6" name="u1F1F6"/><!-- REGIONAL INDICATOR SYMBOL LETTER Q -->
+      <map code="0x1f1f7" name="u1F1F7"/><!-- REGIONAL INDICATOR SYMBOL LETTER R -->
+      <map code="0x1f1f8" name="u1F1F8"/><!-- REGIONAL INDICATOR SYMBOL LETTER S -->
+      <map code="0x1f1f9" name="u1F1F9"/><!-- REGIONAL INDICATOR SYMBOL LETTER T -->
+      <map code="0x1f1fa" name="u1F1FA"/><!-- REGIONAL INDICATOR SYMBOL LETTER U -->
+      <map code="0x1f1fb" name="u1F1FB"/><!-- REGIONAL INDICATOR SYMBOL LETTER V -->
+      <map code="0x1f1fc" name="u1F1FC"/><!-- REGIONAL INDICATOR SYMBOL LETTER W -->
+      <map code="0x1f1fd" name="u1F1FD"/><!-- REGIONAL INDICATOR SYMBOL LETTER X -->
+      <map code="0x1f1fe" name="u1F1FE"/><!-- REGIONAL INDICATOR SYMBOL LETTER Y -->
+      <map code="0x1f1ff" name="u1F1FF"/><!-- REGIONAL INDICATOR SYMBOL LETTER Z -->
+      <map code="0x1f3f4" name="u1F3F4"/><!-- WAVING BLACK FLAG -->
+      <map code="0xe0030" name="uE0030"/><!-- TAG DIGIT ZERO -->
+      <map code="0xe0031" name="uE0031"/><!-- TAG DIGIT ONE -->
+      <map code="0xe0032" name="uE0032"/><!-- TAG DIGIT TWO -->
+      <map code="0xe0033" name="uE0033"/><!-- TAG DIGIT THREE -->
+      <map code="0xe0034" name="uE0034"/><!-- TAG DIGIT FOUR -->
+      <map code="0xe0035" name="uE0035"/><!-- TAG DIGIT FIVE -->
+      <map code="0xe0036" name="uE0036"/><!-- TAG DIGIT SIX -->
+      <map code="0xe0037" name="uE0037"/><!-- TAG DIGIT SEVEN -->
+      <map code="0xe0038" name="uE0038"/><!-- TAG DIGIT EIGHT -->
+      <map code="0xe0039" name="uE0039"/><!-- TAG DIGIT NINE -->
+      <map code="0xe0061" name="uE0061"/><!-- TAG LATIN SMALL LETTER A -->
+      <map code="0xe0062" name="uE0062"/><!-- TAG LATIN SMALL LETTER B -->
+      <map code="0xe0063" name="uE0063"/><!-- TAG LATIN SMALL LETTER C -->
+      <map code="0xe0064" name="uE0064"/><!-- TAG LATIN SMALL LETTER D -->
+      <map code="0xe0065" name="uE0065"/><!-- TAG LATIN SMALL LETTER E -->
+      <map code="0xe0066" name="uE0066"/><!-- TAG LATIN SMALL LETTER F -->
+      <map code="0xe0067" name="uE0067"/><!-- TAG LATIN SMALL LETTER G -->
+      <map code="0xe0068" name="uE0068"/><!-- TAG LATIN SMALL LETTER H -->
+      <map code="0xe0069" name="uE0069"/><!-- TAG LATIN SMALL LETTER I -->
+      <map code="0xe006a" name="uE006A"/><!-- TAG LATIN SMALL LETTER J -->
+      <map code="0xe006b" name="uE006B"/><!-- TAG LATIN SMALL LETTER K -->
+      <map code="0xe006c" name="uE006C"/><!-- TAG LATIN SMALL LETTER L -->
+      <map code="0xe006d" name="uE006D"/><!-- TAG LATIN SMALL LETTER M -->
+      <map code="0xe006e" name="uE006E"/><!-- TAG LATIN SMALL LETTER N -->
+      <map code="0xe006f" name="uE006F"/><!-- TAG LATIN SMALL LETTER O -->
+      <map code="0xe0070" name="uE0070"/><!-- TAG LATIN SMALL LETTER P -->
+      <map code="0xe0071" name="uE0071"/><!-- TAG LATIN SMALL LETTER Q -->
+      <map code="0xe0072" name="uE0072"/><!-- TAG LATIN SMALL LETTER R -->
+      <map code="0xe0073" name="uE0073"/><!-- TAG LATIN SMALL LETTER S -->
+      <map code="0xe0074" name="uE0074"/><!-- TAG LATIN SMALL LETTER T -->
+      <map code="0xe0075" name="uE0075"/><!-- TAG LATIN SMALL LETTER U -->
+      <map code="0xe0076" name="uE0076"/><!-- TAG LATIN SMALL LETTER V -->
+      <map code="0xe0077" name="uE0077"/><!-- TAG LATIN SMALL LETTER W -->
+      <map code="0xe0078" name="uE0078"/><!-- TAG LATIN SMALL LETTER X -->
+      <map code="0xe0079" name="uE0079"/><!-- TAG LATIN SMALL LETTER Y -->
+      <map code="0xe007a" name="uE007A"/><!-- TAG LATIN SMALL LETTER Z -->
+      <map code="0xe007f" name="uE007F"/><!-- CANCEL TAG -->
+      <map code="0xfe82b" name="uFE82B"/><!-- ???? -->
+    </cmap_format_12>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="null"/><!-- ???? -->
+      <map code="0xd" name="nonmarkingreturn"/><!-- ???? -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xa9" name="uni00A9"/><!-- COPYRIGHT SIGN -->
+      <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
+    </cmap_format_4>
+  </cmap>
+
+  <loca>
+    <!-- The 'loca' table will be calculated by the compiler -->
+  </loca>
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name=".notdef"/><!-- contains no outline data -->
+
+    <TTGlyph name="nonmarkingreturn"/><!-- contains no outline data -->
+
+    <TTGlyph name="null"/><!-- contains no outline data -->
+
+    <TTGlyph name="space"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1F6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1FD"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E6_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1E7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1EF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E7_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1FB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1FD"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E8_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E9_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E9_1F1EF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E9_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E9_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E9_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1E9_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EA_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EB_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EB_1F1EF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EB_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EB_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EB_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EB_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1E7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F5"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EC_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1ED_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1ED_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1ED_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1ED_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1ED_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EE_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EF_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EF_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EF_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1EF_1F1F5"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1F5"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F0_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1E7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1FB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F1_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F5"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1FB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1FD"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F2_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1F5"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F3_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F4_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F5_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F6_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F7_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F7_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F7_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F7_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F7_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1E7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1FB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1FD"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F8_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1E9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1ED"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1EF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1F1"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1F7"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1FB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1F9_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FA_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FA_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FA_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FA_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FA_1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FA_1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB_1F1E8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB_1F1EC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB_1F1EE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB_1F1F3"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FB_1F1FA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FC_1F1EB"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FC_1F1F8"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FD"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FD_1F1F0"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FE"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FE_1F1EA"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FE_1F1F9"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FF"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FF_1F1E6"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FF_1F1F2"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F1FF_1F1FC"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F3F4"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F3F4_E0067_E0062_E0065_E006E_E0067_E007F"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F3F4_E0067_E0062_E0073_E0063_E0074_E007F"/><!-- contains no outline data -->
+
+    <TTGlyph name="u1F3F4_E0067_E0062_E0077_E006C_E0073_E007F"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0030"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0031"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0032"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0033"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0034"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0035"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0036"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0037"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0038"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0039"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0061"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0062"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0063"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0064"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0065"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0066"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0067"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0068"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0069"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE006A"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE006B"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE006C"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE006D"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE006E"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE006F"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0070"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0071"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0072"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0073"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0074"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0075"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0076"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0077"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0078"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE0079"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE007A"/><!-- contains no outline data -->
+
+    <TTGlyph name="uE007F"/><!-- contains no outline data -->
+
+    <TTGlyph name="uFE82B"/><!-- contains no outline data -->
+
+    <TTGlyph name="uni00A9"/><!-- contains no outline data -->
+
+    <TTGlyph name="uni200D"/><!-- contains no outline data -->
+
+  </glyf>
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright 2022 Google Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Noto Color Emoji
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Noto Color Emoji
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Noto Color Emoji
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.038;GOOG;noto-emoji:20220906:4b1c5bfb0d5b1f5c69aa321d5b6e70656ead1d30
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      NotoColorEmoji
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Noto is a trademark of Google Inc.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Google, Inc.
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Google, Inc.
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Color emoji font using CBDT glyph data.
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.google.com/get/noto/
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.google.com/get/noto/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+  </name>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-1244"/>
+    <underlineThickness value="131"/>
+    <isFixedPitch value="1"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
+
+  <GSUB>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=4 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="2"/>
+          <LookupListIndex index="2" value="3"/>
+          <LookupListIndex index="3" value="4"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=6 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="u1F1E6">
+            <Ligature components="u1F1E8" glyph="u1F1E6_1F1E8"/>
+            <Ligature components="u1F1E9" glyph="u1F1E6_1F1E9"/>
+            <Ligature components="u1F1EA" glyph="u1F1E6_1F1EA"/>
+            <Ligature components="u1F1EB" glyph="u1F1E6_1F1EB"/>
+            <Ligature components="u1F1EC" glyph="u1F1E6_1F1EC"/>
+            <Ligature components="u1F1EE" glyph="u1F1E6_1F1EE"/>
+            <Ligature components="u1F1F1" glyph="u1F1E6_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1E6_1F1F2"/>
+            <Ligature components="u1F1F4" glyph="u1F1E6_1F1F4"/>
+            <Ligature components="u1F1F6" glyph="u1F1E6_1F1F6"/>
+            <Ligature components="u1F1F7" glyph="u1F1E6_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1E6_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1E6_1F1F9"/>
+            <Ligature components="u1F1FA" glyph="u1F1E6_1F1FA"/>
+            <Ligature components="u1F1FC" glyph="u1F1E6_1F1FC"/>
+            <Ligature components="u1F1FD" glyph="u1F1E6_1F1FD"/>
+            <Ligature components="u1F1FF" glyph="u1F1E6_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1E7">
+            <Ligature components="u1F1E6" glyph="u1F1E7_1F1E6"/>
+            <Ligature components="u1F1E7" glyph="u1F1E7_1F1E7"/>
+            <Ligature components="u1F1E9" glyph="u1F1E7_1F1E9"/>
+            <Ligature components="u1F1EA" glyph="u1F1E7_1F1EA"/>
+            <Ligature components="u1F1EB" glyph="u1F1E7_1F1EB"/>
+            <Ligature components="u1F1EC" glyph="u1F1E7_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1E7_1F1ED"/>
+            <Ligature components="u1F1EE" glyph="u1F1E7_1F1EE"/>
+            <Ligature components="u1F1EF" glyph="u1F1E7_1F1EF"/>
+            <Ligature components="u1F1F1" glyph="u1F1E7_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1E7_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1E7_1F1F3"/>
+            <Ligature components="u1F1F4" glyph="u1F1E7_1F1F4"/>
+            <Ligature components="u1F1F6" glyph="u1F1E7_1F1F6"/>
+            <Ligature components="u1F1F7" glyph="u1F1E7_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1E7_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1E7_1F1F9"/>
+            <Ligature components="u1F1FC" glyph="u1F1E7_1F1FC"/>
+            <Ligature components="u1F1FE" glyph="u1F1E7_1F1FE"/>
+            <Ligature components="u1F1FF" glyph="u1F1E7_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1E8">
+            <Ligature components="u1F1E6" glyph="u1F1E8_1F1E6"/>
+            <Ligature components="u1F1E8" glyph="u1F1E8_1F1E8"/>
+            <Ligature components="u1F1E9" glyph="u1F1E8_1F1E9"/>
+            <Ligature components="u1F1EB" glyph="u1F1E8_1F1EB"/>
+            <Ligature components="u1F1EC" glyph="u1F1E8_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1E8_1F1ED"/>
+            <Ligature components="u1F1EE" glyph="u1F1E8_1F1EE"/>
+            <Ligature components="u1F1F0" glyph="u1F1E8_1F1F0"/>
+            <Ligature components="u1F1F1" glyph="u1F1E8_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1E8_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1E8_1F1F3"/>
+            <Ligature components="u1F1F4" glyph="u1F1E8_1F1F4"/>
+            <Ligature components="u1F1F7" glyph="u1F1E8_1F1F7"/>
+            <Ligature components="u1F1FA" glyph="u1F1E8_1F1FA"/>
+            <Ligature components="u1F1FB" glyph="u1F1E8_1F1FB"/>
+            <Ligature components="u1F1FC" glyph="u1F1E8_1F1FC"/>
+            <Ligature components="u1F1FD" glyph="u1F1E8_1F1FD"/>
+            <Ligature components="u1F1FE" glyph="u1F1E8_1F1FE"/>
+            <Ligature components="u1F1FF" glyph="u1F1E8_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1E9">
+            <Ligature components="u1F1EA" glyph="u1F1E9_1F1EA"/>
+            <Ligature components="u1F1EF" glyph="u1F1E9_1F1EF"/>
+            <Ligature components="u1F1F0" glyph="u1F1E9_1F1F0"/>
+            <Ligature components="u1F1F2" glyph="u1F1E9_1F1F2"/>
+            <Ligature components="u1F1F4" glyph="u1F1E9_1F1F4"/>
+            <Ligature components="u1F1FF" glyph="u1F1E9_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EA">
+            <Ligature components="u1F1E8" glyph="u1F1EA_1F1E8"/>
+            <Ligature components="u1F1EA" glyph="u1F1EA_1F1EA"/>
+            <Ligature components="u1F1EC" glyph="u1F1EA_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1EA_1F1ED"/>
+            <Ligature components="u1F1F7" glyph="u1F1EA_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1EA_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1EA_1F1F9"/>
+            <Ligature components="u1F1FA" glyph="u1F1EA_1F1FA"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EB">
+            <Ligature components="u1F1EE" glyph="u1F1EB_1F1EE"/>
+            <Ligature components="u1F1EF" glyph="u1F1EB_1F1EF"/>
+            <Ligature components="u1F1F0" glyph="u1F1EB_1F1F0"/>
+            <Ligature components="u1F1F2" glyph="u1F1EB_1F1F2"/>
+            <Ligature components="u1F1F4" glyph="u1F1EB_1F1F4"/>
+            <Ligature components="u1F1F7" glyph="u1F1EB_1F1F7"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EC">
+            <Ligature components="u1F1E6" glyph="u1F1EC_1F1E6"/>
+            <Ligature components="u1F1E7" glyph="u1F1EC_1F1E7"/>
+            <Ligature components="u1F1E9" glyph="u1F1EC_1F1E9"/>
+            <Ligature components="u1F1EA" glyph="u1F1EC_1F1EA"/>
+            <Ligature components="u1F1EB" glyph="u1F1EC_1F1EB"/>
+            <Ligature components="u1F1EC" glyph="u1F1EC_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1EC_1F1ED"/>
+            <Ligature components="u1F1EE" glyph="u1F1EC_1F1EE"/>
+            <Ligature components="u1F1F1" glyph="u1F1EC_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1EC_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1EC_1F1F3"/>
+            <Ligature components="u1F1F5" glyph="u1F1EC_1F1F5"/>
+            <Ligature components="u1F1F6" glyph="u1F1EC_1F1F6"/>
+            <Ligature components="u1F1F7" glyph="u1F1EC_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1EC_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1EC_1F1F9"/>
+            <Ligature components="u1F1FA" glyph="u1F1EC_1F1FA"/>
+            <Ligature components="u1F1FC" glyph="u1F1EC_1F1FC"/>
+            <Ligature components="u1F1FE" glyph="u1F1EC_1F1FE"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1ED">
+            <Ligature components="u1F1F0" glyph="u1F1ED_1F1F0"/>
+            <Ligature components="u1F1F3" glyph="u1F1ED_1F1F3"/>
+            <Ligature components="u1F1F7" glyph="u1F1ED_1F1F7"/>
+            <Ligature components="u1F1F9" glyph="u1F1ED_1F1F9"/>
+            <Ligature components="u1F1FA" glyph="u1F1ED_1F1FA"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EE">
+            <Ligature components="u1F1E8" glyph="u1F1EE_1F1E8"/>
+            <Ligature components="u1F1E9" glyph="u1F1EE_1F1E9"/>
+            <Ligature components="u1F1EA" glyph="u1F1EE_1F1EA"/>
+            <Ligature components="u1F1F1" glyph="u1F1EE_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1EE_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1EE_1F1F3"/>
+            <Ligature components="u1F1F4" glyph="u1F1EE_1F1F4"/>
+            <Ligature components="u1F1F6" glyph="u1F1EE_1F1F6"/>
+            <Ligature components="u1F1F7" glyph="u1F1EE_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1EE_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1EE_1F1F9"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1EF">
+            <Ligature components="u1F1EA" glyph="u1F1EF_1F1EA"/>
+            <Ligature components="u1F1F2" glyph="u1F1EF_1F1F2"/>
+            <Ligature components="u1F1F4" glyph="u1F1EF_1F1F4"/>
+            <Ligature components="u1F1F5" glyph="u1F1EF_1F1F5"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F0">
+            <Ligature components="u1F1EA" glyph="u1F1F0_1F1EA"/>
+            <Ligature components="u1F1EC" glyph="u1F1F0_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1F0_1F1ED"/>
+            <Ligature components="u1F1EE" glyph="u1F1F0_1F1EE"/>
+            <Ligature components="u1F1F2" glyph="u1F1F0_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1F0_1F1F3"/>
+            <Ligature components="u1F1F5" glyph="u1F1F0_1F1F5"/>
+            <Ligature components="u1F1F7" glyph="u1F1F0_1F1F7"/>
+            <Ligature components="u1F1FC" glyph="u1F1F0_1F1FC"/>
+            <Ligature components="u1F1FE" glyph="u1F1F0_1F1FE"/>
+            <Ligature components="u1F1FF" glyph="u1F1F0_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F1">
+            <Ligature components="u1F1E6" glyph="u1F1F1_1F1E6"/>
+            <Ligature components="u1F1E7" glyph="u1F1F1_1F1E7"/>
+            <Ligature components="u1F1E8" glyph="u1F1F1_1F1E8"/>
+            <Ligature components="u1F1EE" glyph="u1F1F1_1F1EE"/>
+            <Ligature components="u1F1F0" glyph="u1F1F1_1F1F0"/>
+            <Ligature components="u1F1F7" glyph="u1F1F1_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1F1_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1F1_1F1F9"/>
+            <Ligature components="u1F1FA" glyph="u1F1F1_1F1FA"/>
+            <Ligature components="u1F1FB" glyph="u1F1F1_1F1FB"/>
+            <Ligature components="u1F1FE" glyph="u1F1F1_1F1FE"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F2">
+            <Ligature components="u1F1E6" glyph="u1F1F2_1F1E6"/>
+            <Ligature components="u1F1E8" glyph="u1F1F2_1F1E8"/>
+            <Ligature components="u1F1E9" glyph="u1F1F2_1F1E9"/>
+            <Ligature components="u1F1EA" glyph="u1F1F2_1F1EA"/>
+            <Ligature components="u1F1EC" glyph="u1F1F2_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1F2_1F1ED"/>
+            <Ligature components="u1F1F0" glyph="u1F1F2_1F1F0"/>
+            <Ligature components="u1F1F1" glyph="u1F1F2_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1F2_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1F2_1F1F3"/>
+            <Ligature components="u1F1F4" glyph="u1F1F2_1F1F4"/>
+            <Ligature components="u1F1F5" glyph="u1F1F2_1F1F5"/>
+            <Ligature components="u1F1F6" glyph="u1F1F2_1F1F6"/>
+            <Ligature components="u1F1F7" glyph="u1F1F2_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1F2_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1F2_1F1F9"/>
+            <Ligature components="u1F1FA" glyph="u1F1F2_1F1FA"/>
+            <Ligature components="u1F1FB" glyph="u1F1F2_1F1FB"/>
+            <Ligature components="u1F1FC" glyph="u1F1F2_1F1FC"/>
+            <Ligature components="u1F1FD" glyph="u1F1F2_1F1FD"/>
+            <Ligature components="u1F1FE" glyph="u1F1F2_1F1FE"/>
+            <Ligature components="u1F1FF" glyph="u1F1F2_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F3">
+            <Ligature components="u1F1E6" glyph="u1F1F3_1F1E6"/>
+            <Ligature components="u1F1E8" glyph="u1F1F3_1F1E8"/>
+            <Ligature components="u1F1EA" glyph="u1F1F3_1F1EA"/>
+            <Ligature components="u1F1EB" glyph="u1F1F3_1F1EB"/>
+            <Ligature components="u1F1EC" glyph="u1F1F3_1F1EC"/>
+            <Ligature components="u1F1EE" glyph="u1F1F3_1F1EE"/>
+            <Ligature components="u1F1F1" glyph="u1F1F3_1F1F1"/>
+            <Ligature components="u1F1F4" glyph="u1F1F3_1F1F4"/>
+            <Ligature components="u1F1F5" glyph="u1F1F3_1F1F5"/>
+            <Ligature components="u1F1F7" glyph="u1F1F3_1F1F7"/>
+            <Ligature components="u1F1FA" glyph="u1F1F3_1F1FA"/>
+            <Ligature components="u1F1FF" glyph="u1F1F3_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F4">
+            <Ligature components="u1F1F2" glyph="u1F1F4_1F1F2"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F5">
+            <Ligature components="u1F1E6" glyph="u1F1F5_1F1E6"/>
+            <Ligature components="u1F1EA" glyph="u1F1F5_1F1EA"/>
+            <Ligature components="u1F1EB" glyph="u1F1F5_1F1EB"/>
+            <Ligature components="u1F1EC" glyph="u1F1F5_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1F5_1F1ED"/>
+            <Ligature components="u1F1F0" glyph="u1F1F5_1F1F0"/>
+            <Ligature components="u1F1F1" glyph="u1F1F5_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1F5_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1F5_1F1F3"/>
+            <Ligature components="u1F1F7" glyph="u1F1F5_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1F5_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1F5_1F1F9"/>
+            <Ligature components="u1F1FC" glyph="u1F1F5_1F1FC"/>
+            <Ligature components="u1F1FE" glyph="u1F1F5_1F1FE"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F6">
+            <Ligature components="u1F1E6" glyph="u1F1F6_1F1E6"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F7">
+            <Ligature components="u1F1EA" glyph="u1F1F7_1F1EA"/>
+            <Ligature components="u1F1F4" glyph="u1F1F7_1F1F4"/>
+            <Ligature components="u1F1F8" glyph="u1F1F7_1F1F8"/>
+            <Ligature components="u1F1FA" glyph="u1F1F7_1F1FA"/>
+            <Ligature components="u1F1FC" glyph="u1F1F7_1F1FC"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F8">
+            <Ligature components="u1F1E6" glyph="u1F1F8_1F1E6"/>
+            <Ligature components="u1F1E7" glyph="u1F1F8_1F1E7"/>
+            <Ligature components="u1F1E8" glyph="u1F1F8_1F1E8"/>
+            <Ligature components="u1F1E9" glyph="u1F1F8_1F1E9"/>
+            <Ligature components="u1F1EA" glyph="u1F1F8_1F1EA"/>
+            <Ligature components="u1F1EC" glyph="u1F1F8_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1F8_1F1ED"/>
+            <Ligature components="u1F1EE" glyph="u1F1F8_1F1EE"/>
+            <Ligature components="u1F1F0" glyph="u1F1F8_1F1F0"/>
+            <Ligature components="u1F1F1" glyph="u1F1F8_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1F8_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1F8_1F1F3"/>
+            <Ligature components="u1F1F4" glyph="u1F1F8_1F1F4"/>
+            <Ligature components="u1F1F7" glyph="u1F1F8_1F1F7"/>
+            <Ligature components="u1F1F8" glyph="u1F1F8_1F1F8"/>
+            <Ligature components="u1F1F9" glyph="u1F1F8_1F1F9"/>
+            <Ligature components="u1F1FB" glyph="u1F1F8_1F1FB"/>
+            <Ligature components="u1F1FD" glyph="u1F1F8_1F1FD"/>
+            <Ligature components="u1F1FE" glyph="u1F1F8_1F1FE"/>
+            <Ligature components="u1F1FF" glyph="u1F1F8_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1F9">
+            <Ligature components="u1F1E6" glyph="u1F1F9_1F1E6"/>
+            <Ligature components="u1F1E8" glyph="u1F1F9_1F1E8"/>
+            <Ligature components="u1F1E9" glyph="u1F1F9_1F1E9"/>
+            <Ligature components="u1F1EB" glyph="u1F1F9_1F1EB"/>
+            <Ligature components="u1F1EC" glyph="u1F1F9_1F1EC"/>
+            <Ligature components="u1F1ED" glyph="u1F1F9_1F1ED"/>
+            <Ligature components="u1F1EF" glyph="u1F1F9_1F1EF"/>
+            <Ligature components="u1F1F0" glyph="u1F1F9_1F1F0"/>
+            <Ligature components="u1F1F1" glyph="u1F1F9_1F1F1"/>
+            <Ligature components="u1F1F2" glyph="u1F1F9_1F1F2"/>
+            <Ligature components="u1F1F3" glyph="u1F1F9_1F1F3"/>
+            <Ligature components="u1F1F4" glyph="u1F1F9_1F1F4"/>
+            <Ligature components="u1F1F7" glyph="u1F1F9_1F1F7"/>
+            <Ligature components="u1F1F9" glyph="u1F1F9_1F1F9"/>
+            <Ligature components="u1F1FB" glyph="u1F1F9_1F1FB"/>
+            <Ligature components="u1F1FC" glyph="u1F1F9_1F1FC"/>
+            <Ligature components="u1F1FF" glyph="u1F1F9_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FA">
+            <Ligature components="u1F1E6" glyph="u1F1FA_1F1E6"/>
+            <Ligature components="u1F1EC" glyph="u1F1FA_1F1EC"/>
+            <Ligature components="u1F1F3" glyph="u1F1FA_1F1F3"/>
+            <Ligature components="u1F1F8" glyph="u1F1FA_1F1F8"/>
+            <Ligature components="u1F1FE" glyph="u1F1FA_1F1FE"/>
+            <Ligature components="u1F1FF" glyph="u1F1FA_1F1FF"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FB">
+            <Ligature components="u1F1E6" glyph="u1F1FB_1F1E6"/>
+            <Ligature components="u1F1E8" glyph="u1F1FB_1F1E8"/>
+            <Ligature components="u1F1EA" glyph="u1F1FB_1F1EA"/>
+            <Ligature components="u1F1EC" glyph="u1F1FB_1F1EC"/>
+            <Ligature components="u1F1EE" glyph="u1F1FB_1F1EE"/>
+            <Ligature components="u1F1F3" glyph="u1F1FB_1F1F3"/>
+            <Ligature components="u1F1FA" glyph="u1F1FB_1F1FA"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FC">
+            <Ligature components="u1F1EB" glyph="u1F1FC_1F1EB"/>
+            <Ligature components="u1F1F8" glyph="u1F1FC_1F1F8"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FD">
+            <Ligature components="u1F1F0" glyph="u1F1FD_1F1F0"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FE">
+            <Ligature components="u1F1EA" glyph="u1F1FE_1F1EA"/>
+            <Ligature components="u1F1F9" glyph="u1F1FE_1F1F9"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F1FF">
+            <Ligature components="u1F1E6" glyph="u1F1FF_1F1E6"/>
+            <Ligature components="u1F1F2" glyph="u1F1FF_1F1F2"/>
+            <Ligature components="u1F1FC" glyph="u1F1FF_1F1FC"/>
+          </LigatureSet>
+          <LigatureSet glyph="u1F3F4">
+            <Ligature components="uE0067,uE0062,uE0065,uE006E,uE0067,uE007F" glyph="u1F3F4_E0067_E0062_E0065_E006E_E0067_E007F"/>
+            <Ligature components="uE0067,uE0062,uE0073,uE0063,uE0074,uE007F" glyph="u1F3F4_E0067_E0062_E0073_E0063_E0074_E007F"/>
+            <Ligature components="uE0067,uE0062,uE0077,uE006C,uE0073,uE007F" glyph="u1F3F4_E0067_E0062_E0077_E006C_E0073_E007F"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MultipleSubst index="0" Format="1">
+          <Substitution in="u1F1E6" out=""/>
+          <Substitution in="u1F1E7" out=""/>
+          <Substitution in="u1F1E8" out=""/>
+          <Substitution in="u1F1E9" out=""/>
+          <Substitution in="u1F1EA" out=""/>
+          <Substitution in="u1F1EB" out=""/>
+          <Substitution in="u1F1EC" out=""/>
+          <Substitution in="u1F1ED" out=""/>
+          <Substitution in="u1F1EE" out=""/>
+          <Substitution in="u1F1EF" out=""/>
+          <Substitution in="u1F1F0" out=""/>
+          <Substitution in="u1F1F1" out=""/>
+          <Substitution in="u1F1F2" out=""/>
+          <Substitution in="u1F1F3" out=""/>
+          <Substitution in="u1F1F4" out=""/>
+          <Substitution in="u1F1F5" out=""/>
+          <Substitution in="u1F1F6" out=""/>
+          <Substitution in="u1F1F7" out=""/>
+          <Substitution in="u1F1F8" out=""/>
+          <Substitution in="u1F1F9" out=""/>
+          <Substitution in="u1F1FA" out=""/>
+          <Substitution in="u1F1FB" out=""/>
+          <Substitution in="u1F1FC" out=""/>
+          <Substitution in="u1F1FD" out=""/>
+          <Substitution in="u1F1FE" out=""/>
+          <Substitution in="u1F1FF" out=""/>
+          <Substitution in="uE0030" out=""/>
+          <Substitution in="uE0031" out=""/>
+          <Substitution in="uE0032" out=""/>
+          <Substitution in="uE0033" out=""/>
+          <Substitution in="uE0034" out=""/>
+          <Substitution in="uE0035" out=""/>
+          <Substitution in="uE0036" out=""/>
+          <Substitution in="uE0037" out=""/>
+          <Substitution in="uE0038" out=""/>
+          <Substitution in="uE0039" out=""/>
+          <Substitution in="uE0061" out=""/>
+          <Substitution in="uE0062" out=""/>
+          <Substitution in="uE0063" out=""/>
+          <Substitution in="uE0064" out=""/>
+          <Substitution in="uE0065" out=""/>
+          <Substitution in="uE0066" out=""/>
+          <Substitution in="uE0067" out=""/>
+          <Substitution in="uE0068" out=""/>
+          <Substitution in="uE0069" out=""/>
+          <Substitution in="uE006A" out=""/>
+          <Substitution in="uE006B" out=""/>
+          <Substitution in="uE006C" out=""/>
+          <Substitution in="uE006D" out=""/>
+          <Substitution in="uE006E" out=""/>
+          <Substitution in="uE006F" out=""/>
+          <Substitution in="uE0070" out=""/>
+          <Substitution in="uE0071" out=""/>
+          <Substitution in="uE0072" out=""/>
+          <Substitution in="uE0073" out=""/>
+          <Substitution in="uE0074" out=""/>
+          <Substitution in="uE0075" out=""/>
+          <Substitution in="uE0076" out=""/>
+          <Substitution in="uE0077" out=""/>
+          <Substitution in="uE0078" out=""/>
+          <Substitution in="uE0079" out=""/>
+          <Substitution in="uE007A" out=""/>
+        </MultipleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="2">
+            <Glyph value="uE0030"/>
+            <Glyph value="uE0031"/>
+            <Glyph value="uE0032"/>
+            <Glyph value="uE0033"/>
+            <Glyph value="uE0034"/>
+            <Glyph value="uE0035"/>
+            <Glyph value="uE0036"/>
+            <Glyph value="uE0037"/>
+            <Glyph value="uE0038"/>
+            <Glyph value="uE0039"/>
+            <Glyph value="uE0061"/>
+            <Glyph value="uE0062"/>
+            <Glyph value="uE0063"/>
+            <Glyph value="uE0064"/>
+            <Glyph value="uE0065"/>
+            <Glyph value="uE0066"/>
+            <Glyph value="uE0067"/>
+            <Glyph value="uE0068"/>
+            <Glyph value="uE0069"/>
+            <Glyph value="uE006A"/>
+            <Glyph value="uE006B"/>
+            <Glyph value="uE006C"/>
+            <Glyph value="uE006D"/>
+            <Glyph value="uE006E"/>
+            <Glyph value="uE006F"/>
+            <Glyph value="uE0070"/>
+            <Glyph value="uE0071"/>
+            <Glyph value="uE0072"/>
+            <Glyph value="uE0073"/>
+            <Glyph value="uE0074"/>
+            <Glyph value="uE0075"/>
+            <Glyph value="uE0076"/>
+            <Glyph value="uE0077"/>
+            <Glyph value="uE0078"/>
+            <Glyph value="uE0079"/>
+            <Glyph value="uE007A"/>
+          </Coverage>
+          <BacktrackClassDef Format="1">
+            <ClassDef glyph="u1F3F4" class="1"/>
+            <ClassDef glyph="uE007F" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="2">
+            <ClassDef glyph="uE0030" class="2"/>
+            <ClassDef glyph="uE0031" class="2"/>
+            <ClassDef glyph="uE0032" class="2"/>
+            <ClassDef glyph="uE0033" class="2"/>
+            <ClassDef glyph="uE0034" class="2"/>
+            <ClassDef glyph="uE0035" class="2"/>
+            <ClassDef glyph="uE0036" class="2"/>
+            <ClassDef glyph="uE0037" class="2"/>
+            <ClassDef glyph="uE0038" class="2"/>
+            <ClassDef glyph="uE0039" class="2"/>
+            <ClassDef glyph="uE0061" class="2"/>
+            <ClassDef glyph="uE0062" class="2"/>
+            <ClassDef glyph="uE0063" class="2"/>
+            <ClassDef glyph="uE0064" class="2"/>
+            <ClassDef glyph="uE0065" class="2"/>
+            <ClassDef glyph="uE0066" class="2"/>
+            <ClassDef glyph="uE0067" class="2"/>
+            <ClassDef glyph="uE0068" class="2"/>
+            <ClassDef glyph="uE0069" class="2"/>
+            <ClassDef glyph="uE006A" class="2"/>
+            <ClassDef glyph="uE006B" class="2"/>
+            <ClassDef glyph="uE006C" class="2"/>
+            <ClassDef glyph="uE006D" class="2"/>
+            <ClassDef glyph="uE006E" class="2"/>
+            <ClassDef glyph="uE006F" class="2"/>
+            <ClassDef glyph="uE0070" class="2"/>
+            <ClassDef glyph="uE0071" class="2"/>
+            <ClassDef glyph="uE0072" class="2"/>
+            <ClassDef glyph="uE0073" class="2"/>
+            <ClassDef glyph="uE0074" class="2"/>
+            <ClassDef glyph="uE0075" class="2"/>
+            <ClassDef glyph="uE0076" class="2"/>
+            <ClassDef glyph="uE0077" class="2"/>
+            <ClassDef glyph="uE0078" class="2"/>
+            <ClassDef glyph="uE0079" class="2"/>
+            <ClassDef glyph="uE007A" class="2"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="2">
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=3 -->
+          <ChainSubClassSet index="0" empty="1"/>
+          <ChainSubClassSet index="1" empty="1"/>
+          <ChainSubClassSet index="2">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="1"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="u1F3F4">
+            <Ligature components="uE007F" glyph="uFE82B"/>
+          </LigatureSet>
+          <LigatureSet glyph="uE007F">
+            <Ligature components="u1F3F4" glyph="uFE82B"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="5"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ContextSubst index="0" Format="2">
+          <Coverage Format="2">
+            <Glyph value="u1F1E6"/>
+            <Glyph value="u1F1E7"/>
+            <Glyph value="u1F1E8"/>
+            <Glyph value="u1F1E9"/>
+            <Glyph value="u1F1EA"/>
+            <Glyph value="u1F1EB"/>
+            <Glyph value="u1F1EC"/>
+            <Glyph value="u1F1ED"/>
+            <Glyph value="u1F1EE"/>
+            <Glyph value="u1F1EF"/>
+            <Glyph value="u1F1F0"/>
+            <Glyph value="u1F1F1"/>
+            <Glyph value="u1F1F2"/>
+            <Glyph value="u1F1F3"/>
+            <Glyph value="u1F1F4"/>
+            <Glyph value="u1F1F5"/>
+            <Glyph value="u1F1F6"/>
+            <Glyph value="u1F1F7"/>
+            <Glyph value="u1F1F8"/>
+            <Glyph value="u1F1F9"/>
+            <Glyph value="u1F1FA"/>
+            <Glyph value="u1F1FB"/>
+            <Glyph value="u1F1FC"/>
+            <Glyph value="u1F1FD"/>
+            <Glyph value="u1F1FE"/>
+            <Glyph value="u1F1FF"/>
+          </Coverage>
+          <ClassDef Format="2">
+            <ClassDef glyph="u1F1E6" class="1"/>
+            <ClassDef glyph="u1F1E7" class="1"/>
+            <ClassDef glyph="u1F1E8" class="1"/>
+            <ClassDef glyph="u1F1E9" class="1"/>
+            <ClassDef glyph="u1F1EA" class="1"/>
+            <ClassDef glyph="u1F1EB" class="1"/>
+            <ClassDef glyph="u1F1EC" class="1"/>
+            <ClassDef glyph="u1F1ED" class="1"/>
+            <ClassDef glyph="u1F1EE" class="1"/>
+            <ClassDef glyph="u1F1EF" class="1"/>
+            <ClassDef glyph="u1F1F0" class="1"/>
+            <ClassDef glyph="u1F1F1" class="1"/>
+            <ClassDef glyph="u1F1F2" class="1"/>
+            <ClassDef glyph="u1F1F3" class="1"/>
+            <ClassDef glyph="u1F1F4" class="1"/>
+            <ClassDef glyph="u1F1F5" class="1"/>
+            <ClassDef glyph="u1F1F6" class="1"/>
+            <ClassDef glyph="u1F1F7" class="1"/>
+            <ClassDef glyph="u1F1F8" class="1"/>
+            <ClassDef glyph="u1F1F9" class="1"/>
+            <ClassDef glyph="u1F1FA" class="1"/>
+            <ClassDef glyph="u1F1FB" class="1"/>
+            <ClassDef glyph="u1F1FC" class="1"/>
+            <ClassDef glyph="u1F1FD" class="1"/>
+            <ClassDef glyph="u1F1FE" class="1"/>
+            <ClassDef glyph="u1F1FF" class="1"/>
+          </ClassDef>
+          <!-- SubClassSetCount=2 -->
+          <SubClassSet index="0" empty="1"/>
+          <SubClassSet index="1">
+            <!-- SubClassRuleCount=1 -->
+            <SubClassRule index="0">
+              <!-- GlyphCount=2 -->
+              <!-- SubstCount=2 -->
+              <Class index="0" value="1"/>
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="5"/>
+              </SubstLookupRecord>
+              <SubstLookupRecord index="1">
+                <SequenceIndex value="1"/>
+                <LookupListIndex value="1"/>
+              </SubstLookupRecord>
+            </SubClassRule>
+          </SubClassSet>
+        </ContextSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="u1F1E6" out="uFE82B"/>
+          <Substitution in="u1F1E7" out="uFE82B"/>
+          <Substitution in="u1F1E8" out="uFE82B"/>
+          <Substitution in="u1F1E9" out="uFE82B"/>
+          <Substitution in="u1F1EA" out="uFE82B"/>
+          <Substitution in="u1F1EB" out="uFE82B"/>
+          <Substitution in="u1F1EC" out="uFE82B"/>
+          <Substitution in="u1F1ED" out="uFE82B"/>
+          <Substitution in="u1F1EE" out="uFE82B"/>
+          <Substitution in="u1F1EF" out="uFE82B"/>
+          <Substitution in="u1F1F0" out="uFE82B"/>
+          <Substitution in="u1F1F1" out="uFE82B"/>
+          <Substitution in="u1F1F2" out="uFE82B"/>
+          <Substitution in="u1F1F3" out="uFE82B"/>
+          <Substitution in="u1F1F4" out="uFE82B"/>
+          <Substitution in="u1F1F5" out="uFE82B"/>
+          <Substitution in="u1F1F6" out="uFE82B"/>
+          <Substitution in="u1F1F7" out="uFE82B"/>
+          <Substitution in="u1F1F8" out="uFE82B"/>
+          <Substitution in="u1F1F9" out="uFE82B"/>
+          <Substitution in="u1F1FA" out="uFE82B"/>
+          <Substitution in="u1F1FB" out="uFE82B"/>
+          <Substitution in="u1F1FC" out="uFE82B"/>
+          <Substitution in="u1F1FD" out="uFE82B"/>
+          <Substitution in="u1F1FE" out="uFE82B"/>
+          <Substitution in="u1F1FF" out="uFE82B"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+  <vhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="1275"/>
+    <descent value="-1275"/>
+    <lineGap value="0"/>
+    <advanceHeightMax value="2500"/>
+    <minTopSideBearing value="0"/>
+    <minBottomSideBearing value="0"/>
+    <yMaxExtent value="2400"/>
+    <caretSlopeRise value="0"/>
+    <caretSlopeRun value="1"/>
+    <caretOffset value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <reserved4 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfVMetrics value="1"/>
+  </vhea>
+
+  <vmtx>
+    <mtx name=".notdef" height="2500" tsb="0"/>
+    <mtx name="nonmarkingreturn" height="2500" tsb="0"/>
+    <mtx name="null" height="0" tsb="0"/>
+    <mtx name="space" height="2500" tsb="0"/>
+    <mtx name="u1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1F6" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1FD" height="2500" tsb="0"/>
+    <mtx name="u1F1E6_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1E7" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1E7" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1EF" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F6" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1E7_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1FB" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1FD" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1E8_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1E9_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1E9_1F1EF" height="2500" tsb="0"/>
+    <mtx name="u1F1E9_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1E9_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1E9_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1E9_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1EA_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1EB_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1EB_1F1EF" height="2500" tsb="0"/>
+    <mtx name="u1F1EB_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1EB_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1EB_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1EB_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1E7" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F5" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F6" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1EC_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1ED_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1ED_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1ED_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1ED_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1ED_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F6" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1EE_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1EF" height="2500" tsb="0"/>
+    <mtx name="u1F1EF_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1EF_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1EF_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1EF_1F1F5" height="2500" tsb="0"/>
+    <mtx name="u1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1F5" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1F0_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1E7" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1FB" height="2500" tsb="0"/>
+    <mtx name="u1F1F1_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F5" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F6" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1FB" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1FD" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1F2_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1F5" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1F3_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1F4_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F5" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1F5_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1F6" height="2500" tsb="0"/>
+    <mtx name="u1F1F6_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F7_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1F7_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1F7_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1F7_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1F7_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1E7" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1FB" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1FD" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1F8_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1E9" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1ED" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1EF" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1F1" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1F4" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1F7" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1FB" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1F9_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1FA_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1FA_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1FA_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1FA_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1FA_1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1FA_1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1FB" height="2500" tsb="0"/>
+    <mtx name="u1F1FB_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1FB_1F1E8" height="2500" tsb="0"/>
+    <mtx name="u1F1FB_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1FB_1F1EC" height="2500" tsb="0"/>
+    <mtx name="u1F1FB_1F1EE" height="2500" tsb="0"/>
+    <mtx name="u1F1FB_1F1F3" height="2500" tsb="0"/>
+    <mtx name="u1F1FB_1F1FA" height="2500" tsb="0"/>
+    <mtx name="u1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F1FC_1F1EB" height="2500" tsb="0"/>
+    <mtx name="u1F1FC_1F1F8" height="2500" tsb="0"/>
+    <mtx name="u1F1FD" height="2500" tsb="0"/>
+    <mtx name="u1F1FD_1F1F0" height="2500" tsb="0"/>
+    <mtx name="u1F1FE" height="2500" tsb="0"/>
+    <mtx name="u1F1FE_1F1EA" height="2500" tsb="0"/>
+    <mtx name="u1F1FE_1F1F9" height="2500" tsb="0"/>
+    <mtx name="u1F1FF" height="2500" tsb="0"/>
+    <mtx name="u1F1FF_1F1E6" height="2500" tsb="0"/>
+    <mtx name="u1F1FF_1F1F2" height="2500" tsb="0"/>
+    <mtx name="u1F1FF_1F1FC" height="2500" tsb="0"/>
+    <mtx name="u1F3F4" height="2500" tsb="0"/>
+    <mtx name="u1F3F4_E0067_E0062_E0065_E006E_E0067_E007F" height="2500" tsb="0"/>
+    <mtx name="u1F3F4_E0067_E0062_E0073_E0063_E0074_E007F" height="2500" tsb="0"/>
+    <mtx name="u1F3F4_E0067_E0062_E0077_E006C_E0073_E007F" height="2500" tsb="0"/>
+    <mtx name="uE0030" height="2500" tsb="0"/>
+    <mtx name="uE0031" height="2500" tsb="0"/>
+    <mtx name="uE0032" height="2500" tsb="0"/>
+    <mtx name="uE0033" height="2500" tsb="0"/>
+    <mtx name="uE0034" height="2500" tsb="0"/>
+    <mtx name="uE0035" height="2500" tsb="0"/>
+    <mtx name="uE0036" height="2500" tsb="0"/>
+    <mtx name="uE0037" height="2500" tsb="0"/>
+    <mtx name="uE0038" height="2500" tsb="0"/>
+    <mtx name="uE0039" height="2500" tsb="0"/>
+    <mtx name="uE0061" height="2500" tsb="0"/>
+    <mtx name="uE0062" height="2500" tsb="0"/>
+    <mtx name="uE0063" height="2500" tsb="0"/>
+    <mtx name="uE0064" height="2500" tsb="0"/>
+    <mtx name="uE0065" height="2500" tsb="0"/>
+    <mtx name="uE0066" height="2500" tsb="0"/>
+    <mtx name="uE0067" height="2500" tsb="0"/>
+    <mtx name="uE0068" height="2500" tsb="0"/>
+    <mtx name="uE0069" height="2500" tsb="0"/>
+    <mtx name="uE006A" height="2500" tsb="0"/>
+    <mtx name="uE006B" height="2500" tsb="0"/>
+    <mtx name="uE006C" height="2500" tsb="0"/>
+    <mtx name="uE006D" height="2500" tsb="0"/>
+    <mtx name="uE006E" height="2500" tsb="0"/>
+    <mtx name="uE006F" height="2500" tsb="0"/>
+    <mtx name="uE0070" height="2500" tsb="0"/>
+    <mtx name="uE0071" height="2500" tsb="0"/>
+    <mtx name="uE0072" height="2500" tsb="0"/>
+    <mtx name="uE0073" height="2500" tsb="0"/>
+    <mtx name="uE0074" height="2500" tsb="0"/>
+    <mtx name="uE0075" height="2500" tsb="0"/>
+    <mtx name="uE0076" height="2500" tsb="0"/>
+    <mtx name="uE0077" height="2500" tsb="0"/>
+    <mtx name="uE0078" height="2500" tsb="0"/>
+    <mtx name="uE0079" height="2500" tsb="0"/>
+    <mtx name="uE007A" height="2500" tsb="0"/>
+    <mtx name="uE007F" height="2500" tsb="0"/>
+    <mtx name="uFE82B" height="2500" tsb="0"/>
+    <mtx name="uni00A9" height="2500" tsb="0"/>
+    <mtx name="uni200D" height="2500" tsb="0"/>
+  </vmtx>
+
+</ttFont>
